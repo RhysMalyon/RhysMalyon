@@ -1,8 +1,8 @@
 ### Hey, I'm Rhys - Le Wagon student and budding full-stack web dev 👋
 
-## Creative copywriter, trained teacher, wily web developer
+## Who I am:
 
-- 🥅 Goal: To build a career in tech and keep learning
+- 🥅 Goal: To build a career in tech and learn more languages and frameworks
 - 🎮 Avid gamer
 - 📓 Dedicated learner
 - 📷 Keen photographer
