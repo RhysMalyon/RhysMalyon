@@ -2,11 +2,11 @@
 
 ## Creative copywriter, trained teacher, wily web developer
 
-- ✏️ Copywriter in digital marketing and public relations for 4 years
 - 🥅 Goal: To build a career in tech and keep learning
 - 🎮 Avid gamer
 - 📓 Dedicated learner
 - 📷 Keen photographer
+- ✏️ Former copywriter in digital marketing and public relations for 4 years
 
 ### Let's connect:
 
