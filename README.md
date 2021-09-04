@@ -1,4 +1,4 @@
-### Hey, I'm Rhys - Le Wagon student and budding full-stack web dev 👋
+### Hey, I'm Rhys - Full-stack web dev and Le Wagon graduate  👋
 
 ## Who I am:
 
