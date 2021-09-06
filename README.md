@@ -1,12 +1,13 @@
-### Hey, I'm Rhys - Full-stack web dev and Le Wagon graduate  👋
+### Hey, I'm Rhys - Full-stack web developer and Le Wagon graduate  👋
 
 ## Who I am:
 
+- 💻 Working with **Ruby on Rails**, **HTML**, **CSS**, and **JS** (More to come..)
+- ✏️ Former copywriter in digital marketing and public relations for 4 years
 - 🥅 Goal: To build a career in tech and learn more languages and frameworks
 - 🎮 Avid gamer
 - 📓 Dedicated learner
 - 📷 Keen photographer
-- ✏️ Former copywriter in digital marketing and public relations for 4 years
 
 ### Let's connect:
 
