@@ -6,7 +6,6 @@
 - ✏️ Former copywriter in digital marketing and public relations for 4 years
 - 🥅 Goal: To build a career in tech and learn more languages and frameworks
 - 🎮 Avid gamer
-- 📓 Dedicated learner
 - 📷 Keen photographer
 
 ### Let's connect:
