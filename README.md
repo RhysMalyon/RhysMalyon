@@ -38,7 +38,7 @@
 <br />
 <br />
 
-### My latest articles
+## My latest [dev.to](https://dev.to/rhysmalyon) articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Making pageContext available to child components in Gatsby with react-intl](https://dev.to/rhysmalyon/making-pagecontext-available-to-child-components-in-gatsby-with-react-intl-49ch)
