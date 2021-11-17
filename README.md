@@ -41,6 +41,11 @@
 ### My latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Making pageContext available to child components in Gatsby with react-intl](https://dev.to/rhysmalyon/making-pagecontext-available-to-child-components-in-gatsby-with-react-intl-49ch)
+- [Creating a Google Map component in Rails-React](https://dev.to/rhysmalyon/creating-our-google-map-component-4h88)
+- [Setting up Google Maps API](https://dev.to/rhysmalyon/setting-up-google-maps-api-1ji6)
+- [Installing React in Rails and creating your first component](https://dev.to/rhysmalyon/installing-react-and-creating-our-first-component-1e1c)
+- [Building a Rails app backbone](https://dev.to/rhysmalyon/building-our-rails-backbone-2jmb)
 <!-- BLOG-POST-LIST:END -->
 
 ---
