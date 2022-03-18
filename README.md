@@ -1,11 +1,10 @@
-### Hey, I'm Rhys - Full-stack web developer 👋
+### Hey, I'm Rhys - Front end web developer 👋
 
 ## Who I am:
 
-- 💻 Working with **Ruby on Rails** on the back end, **HTML**, **CSS**, and **JS** on the front end
 - 📚 Studied at Le Wagon Tokyo (Batch 656 - Summer 2021)
 - ✏️ Former copywriter in digital marketing and public relations for 4 years
-- 🥅 Goal: To build a career in tech and learn more languages and frameworks
+- 🥅 Build a career in tech and learn more languages and frameworks
 - 🎮 Avid gamer
 - 📷 Keen photographer
 
