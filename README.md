@@ -52,6 +52,8 @@
 - [Building a Rails app backbone](https://dev.to/rhysmalyon/building-our-rails-backbone-2jmb)
 <!-- BLOG-POST-LIST:END -->
 
+![](https://komarev.com/ghpvc/?username=RhysMalyon)
+
 ---
 
 <details>
